@@ -3,7 +3,7 @@ This outline is created to help put together all functions/scripts that were wri
 
 **Note**: the following discussion will be broken down into two parts. Multi sources in long period (MS+LP) and single source in short period (SS+SP). To simplify the problem for now, the main discussion will focus on SS+SP, which will be gradually extended to MS+LP.   
 
-======================================================================================================================
+=======================================================================================
 ### General Steps:
 - [ ]  Sound source matching
 - [ ]  Timestamp matching
@@ -11,13 +11,12 @@ This outline is created to help put together all functions/scripts that were wri
 - [ ]  Extract coordinates
 - [ ]  Populate dataframe
 
-======================================================================================================================
+=======================================================================================
 ### Current Goal:
 Formulate data frame for 1 min recording from 1:05 pm - 1:15pm, on March 25th. Single stationary source.
 
-======================================================================================================================
+=======================================================================================
 #### Sound Source Matching
-
 The biggest challenge for data combining is sound source matching. Each array has 4 beams/channels, with each channel corresponding to a different sound source. ODAS library is able to track and separate up to 4 different sources at the same time. Currently, we have seen two main problems: cross talk between channels within an array and reflection. The first problem happens when one sound source appears in multiple channels as a result of long silence or ODAS sound source tracking (SST) algorithm failure. The second problem happens when the sound source is too close to a smooth surface and ODAS is picking up sound from direct path and reflection path, and therefore two channels have the same sound. 
 
 Since each recording raw file is approximatly 5 mins long, there is a high chance that each channel within an array corresponds to more than one sound source. Calculating cross corrleation pairs over the entire 5 mins recording for sound source matching (SSM) will not be reliable. Therefore, to adapt to the volatile nature of ODAS SST algorithm, we will implement local SSM, using windowing method with no overlap. 
