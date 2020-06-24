@@ -39,7 +39,6 @@ def durationinMicroseconds(filename):
     
     return duration, T1, T2
 
-# Converts .log files into pandas dataframes
 def extractDirectionalities(filename, mic_number):
     with open(filename, 'r') as f:
         text = f.read()
@@ -82,50 +81,44 @@ def extractDirectionalities(filename, mic_number):
     df = df.append(pd.DataFrame.from_dict(df_dict,"index"))
     return(df)
 
-#Main
-# records0 = glob.glob('/home/ardelalegre/google-drive/ODAS/recordings0/*.log')
-# records1 = glob.glob('/home/ardelalegre/google-drive/ODAS/recordings1/*.log')
-records2 = glob.glob('/home/ardelalegre/google-drive/ODAS/recordings2/*.log')
-records3 = glob.glob('/home/ardelalegre/google-drive/ODAS/recordings3/*.log')
+#define the dates and hours to be combined
+years = ['2019', '2020']
+months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+days = []
+hours = []
+for i in range(10):
+    days.append('0' + str(i))
+    hours.append('0' + str(i))
+for i in range(10, 32):
+    days.append(str(i))
+for i in range(10, 25):
+    hours.append(str(i))
 
-records = [records2, records3]
-
-for mic_number in range(len(records)):
-
-    for log in tqdm(records[mic_number]):
-        
-        with open(log, 'r') as f:
-                firstline = f.readline()
-                if firstline == "SST log contains no useful data\n":
-                    continue
-        
-        hour = log[log.rfind('_') + 1: log.rfind('_') + 1 + 2]
-        day = log[log.find('_') + 1: log.rfind('_')]
-        path = log[:log.find('S/') + 2] + 'dataframes/dataframes' + str(mic_number) + '/'
-        
-        try:
-            if(not os.path.isdir(os.path.join(path, day))):
-                os.mkdir(os.path.join(path, day))
+#iterate through dates and combine
+for year in years:
+    for month in months:
+        for day in days:
+            date = year + '-' + month + '-' + day
+            date_path = os.path.join('/home/ardelalegre/google-drive/ODAS/dataframes/combined/', date)
+            for hour in hours:
             
-            path = os.path.join(path, day, hour)
-            if(not os.path.isdir(path)):
-                print("making directory: " + str(path))
-                os.mkdir(path)
-        
-            file = path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv'
-            if(os.path.isfile(file)):
-                continue
-        except:
-            continue
-            
-        print(path)
-        try:
-            df = extractDirectionalities(log, mic_number)
-            if(not os.path.isdir(path)):
-                os.mkdir(path)
-            df.to_csv(path_or_buf=path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv', index=False)
-        except:
-            print('Could not process file: ' + log)
-        
-        
-    
+                dfs = []
+                for mic_number in range(4):
+                    if(not os.path.isdir('/home/ardelalegre/google-drive/ODAS/dataframes/dataframes' + str(mic_number) + '/' + date + '/' + hour + '/')):
+                        continue
+                    
+                    for file in glob.glob('/home/ardelalegre/google-drive/ODAS/dataframes/dataframes' + str(mic_number) + '/' + date +'/' + hour + '/*.csv'):
+                        df = pd.read_csv(file)
+                        dfs.append(df)
+                if(len(dfs) > 0):
+                    merged = pd.concat(dfs)
+                    #sort by time
+                    merged = merged.sort_values(['Time In Seconds'])
+                
+                    if(not os.path.isdir(date_path)):
+                        os.mkdir(date_path)
+                    merged.to_csv(path_or_buf=date_path + '/' + hour + '.csv', index=False)
+       
+                              
+                
+                
