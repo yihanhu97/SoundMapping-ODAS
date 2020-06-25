@@ -1,7 +1,7 @@
 ## SYSTEM UPDATE
 
 
-### Odaslive
+### odaslive
 1. Included sound source localization data
 2. Changed file path.
    - `/home/pi/odas/recordings/SSL/SSL.log`
