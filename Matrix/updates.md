@@ -9,11 +9,12 @@
    - `/home/pi/odas/recordings/separated/separated.raw`
    - `/home/pi/odas/recordings/postfiltered/postfiltered.raw`
 
-### system.monitoring v2
+### recording v2
 Instead of rebooting every 5 minutes, use subprocess to let the process to intercept the kill signal and exit elegantly. `kill -2 ID` is equivalent to `ctrl+c`, which will let odaslive exit with memory freed.
-1. Changed `subprocess.kill()` to `subprocess.send_signal(signal.SIGINT)`.
-2. Adjusted paths based on new odaslive code.
-3. Added code to process `SSL.log`. `SSL.log` will be deleted if no useful data is found in `SST.log`. Recording start time and end time will be added to the file if it is not deleted. 
+1. Renamed `system.monitoring.py` to `recording.py`
+2. Changed `subprocess.kill()` to `subprocess.send_signal(signal.SIGINT)`.
+3. Adjusted paths based on new odaslive code.
+4. Added code to process `SSL.log`. `SSL.log` will be deleted if no useful data is found in `SST.log`. Recording start time and end time will be added to the file if it is not deleted. 
 
 ### IP address
 Created a bash script `IPUpload.sh` that publishes private IP address to google drive at boot. 
