@@ -20,11 +20,11 @@ Instead of rebooting every 5 minutes, use subprocess to let the process to inter
 Renamed `file.monitoring.py` to `watchdog.py`.
 
 ### crontab
-Changed crontab so that all bash scripts and commands are running with user pi permission instead of root. 
+1. Changed crontab so that all bash scripts and commands are running with user pi permission instead of root. 
 
 ### bash scripts
 1. Created a bash script that will clean up all remaining files in the recordings folder at reboot.
-2. Created a bash script `IPupload.sh` that publishes private IP address to google drive at reboot. 
+2. Created a bash script `IPupload.sh` that publishes private IP address to google drive at reboot. It will include a line consisted of a timestamp followed by the IP address
 
 ### TODO:
 1. Update `IPUpload.sh` so that it detects IP address change
