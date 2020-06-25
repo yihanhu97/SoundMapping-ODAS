@@ -22,11 +22,9 @@ Renamed `file.monitoring.py` to `watchdog.py`.
 ### crontab
 Changed crontab so that all bash scripts and commands are running with user pi permission instead of root. 
 
-### `cleanup.sh` 
-Created a bash script that will clean up all remaining files in the recordings folder at reboot.
-
-### IP address
-Created a bash script `IPUpload.sh` that publishes private IP address to google drive at boot. 
+### bash scripts
+1. Created a bash script that will clean up all remaining files in the recordings folder at reboot.
+2. Created a bash script `IPUpload.sh` that publishes private IP address to google drive at reboot. 
 
 ### TODO:
 1. Update `IPUpload.sh` so that it detects IP address change
