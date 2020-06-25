@@ -21,6 +21,8 @@ Renamed `file.monitoring.py` to `watchdog.py`.
 
 ### crontab
 1. Changed crontab so that all bash scripts and commands are running with user pi permission instead of root. 
+2. Added a cronjob for uploading IP address to google drive every 12 hours.
+3. Added a cronjob for cleaing up remaining files in recordings folder at reboot.
 
 ### bash scripts
 1. Created a bash script that will clean up all remaining files in the recordings folder at reboot.
