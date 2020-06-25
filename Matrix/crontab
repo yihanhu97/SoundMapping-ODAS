@@ -1,0 +1,15 @@
+# Run rclone copy every 5 minutes to backup recordings
+*/5 * * * * su pi -c "/home/pi/odas/backup.sh"
+
+# Delete files generated every 15 mins ago to free up storage
+*/15 * * * * su pi -c "/home/pi/odas/filemanager.sh"
+
+# Start programs at boot
+@reboot su pi -c "/home/pi/odas/startup.sh"
+
+# Clean recordings at boot
+@reboot su pi -c "/home/pi/odas/cleanup.sh"
+
+# Upload IP address at boot
+@reboot sleep 60 ; su pi -c "/home/pi/odas/IPupload.sh"
+0 */12 * * * su pi -c "/home/pi/odas/IPupload.sh"
