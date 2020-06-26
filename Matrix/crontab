@@ -2,7 +2,8 @@
 */5 * * * * su pi -c "/home/pi/odas/backup.sh"
 
 # Delete files generated every 15 mins ago to free up storage
-*/15 * * * * su pi -c "/home/pi/odas/filemanager.sh"
+# Running with root permission due to find's internal directory change
+*/15 * * * * /home/pi/odas/filemanager.sh
 
 # Start programs at boot
 @reboot su pi -c "/home/pi/odas/startup.sh"
