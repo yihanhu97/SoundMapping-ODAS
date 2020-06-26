@@ -48,7 +48,7 @@ else:
     print('not useful\n')
    
 # create a new log file that is checked and cleaned
-with open('/home/pi/odas/recordings/cleaned.log', 'w') as f:
+with open('/home/pi/odas/recordings/SST/cleaned.log', 'w') as f:
     if saveFlag:
         for item in data:
             f.write("%s\n" % item)
