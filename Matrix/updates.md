@@ -31,6 +31,7 @@ Renamed `file.monitoring.py` to `watchdog.py`.
 ### TODO:
 1. Update `IPUpload.sh` so that it detects IP address change
 2. Update watchdog program, `file.monitoring.py` so that:
+   - Modify watchdog program to avoid bugs
    - Monitors any ODAS `defunct` processes, reboot the device once a `defunct` process is found
    - Monitors memory usage
    - Monitors CPU usage
