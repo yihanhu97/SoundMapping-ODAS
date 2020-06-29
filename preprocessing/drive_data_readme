@@ -7,7 +7,10 @@ Data Organization on Google Drive
 
 Drive link: https://drive.google.com/drive/u/1/folders/1dM7PO96C1XKXNNycvZ8HKhXWvptIHryh
 
-A. Log files:
+A. Log files: 
+cSST_yyyy-mm-dd-hh-mm-ss_device.log
+
+device indicates array number, could be 0, 1, 2, 3
 
 Each mic. array in the ODAS system generates logs files.
 A log is a data structure that contains info like:
@@ -36,11 +39,32 @@ The resulting .csv files are found in /ODAS/dataframes/combined. They are organi
 The stage is then set to convert the combined .csv files into a data matrix.
 
 
+Scripts:
+
+The following are the scripts that help in converting the logs into a numpy array with positions and time stamps:
+
+1. 'processAllLogs.py':-
+	Input: Log files
+	Output: a corresponding .csv file for each log file
+	
+
+2. 'combineDataframes.py'
+	Input: .csv files from all mic arrays
+	Ouput: a combined .csv file with entries from all arrays
+
+3. (pandasToMatrix.ipynb)/ 'pivot_12_entry_row.py': Generates a combined .csv file with separate columns for each array.
+
+4. processManagement.py : check for new files and process them (called from cron tab).
 
 
 
 
 
+
+
+
+
+ 
 
 
 
