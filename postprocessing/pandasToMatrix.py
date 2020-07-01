@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 import copy
@@ -85,6 +86,7 @@ def source_matching_single(dfs):
 
 
 def non_contiguous_hours_extractor(date, path):
+    """Returns an integer list of all hours for which a .csv exists. The path needs to have only hh.csv files"""
     list_dir = os.listdir(path)
     list_dir_nums = []
     for i in list_dir:
@@ -92,10 +94,9 @@ def non_contiguous_hours_extractor(date, path):
     list_dir_nums.sort()
     return list_dir_nums
 
-
 def main(date, starting_hour=1, num_hours=1, multiple_sources=False):
-    """ Given the date, starting hour, and number of hours, this function processes combined csv
-    files on the ODAS google drive folder and gives the corresponding matrix as the output."""
+    """ Given the path to the date folder, this function processes combined .csv files on the ODAS google drive folder
+    and gives the corresponding matrix as the output."""
     
     # which .csv file to process? -> the one given in the date parameter
     date_path_combined = '/home/ardelalegre/google-drive/ODAS/dataframes/combined/'+ date
@@ -135,10 +136,14 @@ def main(date, starting_hour=1, num_hours=1, multiple_sources=False):
         else:
             hours.append('0' + str(i))
 
-    # each hour directory contains one combined .csv file with the name
+    # each hour directory contains one combined .csv file with the path
     # "/home/ardelalegre/google-drive/ODAS/dataframes/combined/yyyy-mm-dd/hh.csv"
-    # In the following code, we read each file and pass it to 'source_matching_single()'
-    # the .csv is being read correctly
+    # In the following code, we read each file in a date directory and pass it to 'source_matching_single()'
+    
+    if(hours == []):
+        print("There are no combinded .csv files to process into a matrix.")
+        return []
+    
     for hour in hours:
         df = pd.read_csv(date_path_combined+'/' + str(hour) + '.csv')
         if(multiple_sources):
@@ -154,6 +159,7 @@ def main(date, starting_hour=1, num_hours=1, multiple_sources=False):
 #         except:
 #             print("Too many hours")
     return matricies
+
 
 date = '2019-09-14'
 test_matrix = main('2019-09-14')
