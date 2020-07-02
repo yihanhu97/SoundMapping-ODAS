@@ -5,7 +5,6 @@ import re
 import json
 import datetime
 import time
-from tqdm import tqdm
 
 # Extract time information of each recording from the log file
 def timeExtract(filename):
