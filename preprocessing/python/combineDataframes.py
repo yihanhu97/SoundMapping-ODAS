@@ -81,8 +81,8 @@ def extractDirectionalities(filename, mic_number):
     return(df)
 
 #define the dates and hours to be combined
-years = ['2019', '2020']
-months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+years = ['2020']
+months = ['07']
 days = []
 hours = []
 for i in range(10):
@@ -93,7 +93,7 @@ for i in range(10, 32):
 for i in range(10, 25):
     hours.append(str(i))
 
-#iterate through dates and combine
+#iterate through dates and combine. Then for each hour, for each array if a directory exists for that hour, list all the csv files for that hour. Read them and append 
 for year in years:
     for month in months:
         for day in days:
@@ -107,6 +107,7 @@ for year in years:
                         continue
                     
                     for file in glob.glob('/home/ardelalegre/google-drive/ODAS/dataframes/dataframes' + str(mic_number) + '/' + date +'/' + hour + '/*.csv'):
+                        print("Reading file " + file) 
                         df = pd.read_csv(file)
                         dfs.append(df)
                 if(len(dfs) > 0):
