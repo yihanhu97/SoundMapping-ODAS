@@ -5,7 +5,6 @@ import re
 import json
 import datetime
 import time
-from tqdm import tqdm
 
 # Extract time information of each recording from the log file
 def timeExtract(filename):
@@ -93,7 +92,7 @@ records = [records0, records1, records2, records3]
 
 for mic_number in range(len(records)):
 
-    for log in tqdm(records[mic_number]):
+    for log in records[mic_number]:
         
         with open(log, 'r') as f:
                 firstline = f.readline()
