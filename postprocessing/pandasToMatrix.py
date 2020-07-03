@@ -161,5 +161,5 @@ def main(date, starting_hour=1, num_hours=1, multiple_sources=False):
     return matricies
 
 
-date = '2019-09-14'
-test_matrix = main('2019-09-14')
+# date = '2019-09-14'
+# test_matrix = main('2019-09-14')
