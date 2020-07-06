@@ -63,7 +63,7 @@ def extractDirectionalities(filename, mic_number):
     #Used for calculating timestamps -> time
     duration, startTime, endTime = durationinMicroseconds(filename)
     start_time_in_seconds = time.mktime(startTime.timetuple())
-    t = duration/len(data) / 1000000
+    t = duration/len(data) / 1000000.0
     
     index = 1.0
     ind = 0
