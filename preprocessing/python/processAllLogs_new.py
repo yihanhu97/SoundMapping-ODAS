@@ -84,7 +84,6 @@ def extractDirectionalities(filename, mic_number):
 
 #Main
 
-destination = "/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed"
 
 records0 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs0/SST/*.log')
 records1 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs1/SST/*.log')
@@ -94,7 +93,9 @@ records3 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs3/SST/*.log')
 records = [records0, records1, records2, records3]
 
 for mic_number in range(len(records)):
-
+    
+    destination = "/home/ardelalegre/google-drive/ODAS/logs" + str(mic_number) + "/SST/Processed"
+    
     for log in records[mic_number]:
         
         with open(log, 'r') as f:
