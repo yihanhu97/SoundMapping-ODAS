@@ -6,6 +6,7 @@ import json
 import datetime
 import time
 import shutil
+import datetime
 
 # Extract time information of each recording from the log file
 def timeExtract(filename):
@@ -84,6 +85,7 @@ def extractDirectionalities(filename, mic_number):
 
 #Main
 
+print("Execution of processAllLogs_new.py started at " + str(datetime.datetime.now()))
 
 records0 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs0/SST/*.log')
 records1 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs1/SST/*.log')
@@ -95,6 +97,7 @@ records = [records0, records1, records2, records3]
 for mic_number in range(len(records)):
     
     destination = "/home/ardelalegre/google-drive/ODAS/logs" + str(mic_number) + "/SST/Processed"
+    print("Now processing logs" + str(mic_number))
     
     for log in records[mic_number]:
         
@@ -136,4 +139,5 @@ for mic_number in range(len(records)):
             print('Could not process file: ' + log)
         
         
-    
+print("Execution of processAllLogs_new.py ended at " + str(datetime.datetime.now()))
+
