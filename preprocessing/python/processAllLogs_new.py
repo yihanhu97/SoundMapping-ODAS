@@ -5,6 +5,7 @@ import re
 import json
 import datetime
 import time
+import shutil
 
 # Extract time information of each recording from the log file
 def timeExtract(filename):
@@ -83,6 +84,8 @@ def extractDirectionalities(filename, mic_number):
 
 #Main
 
+destination = "/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed"
+
 records0 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs0/SST/*.log')
 records1 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs1/SST/*.log')
 records2 = glob.glob('/home/ardelalegre/google-drive/ODAS/logs2/SST/*.log')
@@ -97,6 +100,7 @@ for mic_number in range(len(records)):
         with open(log, 'r') as f:
                 firstline = f.readline()
                 if firstline == "SST log contains no useful data\n":
+                    temp = shutil.move(log,destination) # new
                     continue
                     
         log_string = log[:-6] + '.log' # modification to account for added array number to path
@@ -126,6 +130,7 @@ for mic_number in range(len(records)):
             if(not os.path.isdir(path)):
                 os.mkdir(path)
             df.to_csv(path_or_buf=path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv', index=False)
+            temp = shutil.move(log,destination) # new
         except:
             print('Could not process file: ' + log)
         
