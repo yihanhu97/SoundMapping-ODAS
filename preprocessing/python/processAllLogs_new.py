@@ -134,7 +134,10 @@ for mic_number in range(len(records)):
             if(not os.path.isdir(path)):
                 os.mkdir(path)
             df.to_csv(path_or_buf=path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv', index=False)
-            temp = shutil.move(log,destination) # new
+            try:
+                temp = shutil.move(log,destination) # new
+            except:
+                continue
         except:
             print('Could not process file: ' + log)
         
