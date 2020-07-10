@@ -8,3 +8,6 @@ making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/202
 making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-08/18
 making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-08/19
 making directory: /h
+Execution of processAllLogs_new.py started at 2020-07-10 05:00:03.757422
+Now processing logs0
+making directory: /h
