@@ -95,3 +95,4 @@ Reading file /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-
 Reading file /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-11/16/2020-07-11_16:20:04_0.csv
 Reading file /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-11/16/2020-07-11_16:25:04_0.csv
 Reading file /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-12/20/2020-07-12_20:05:04_0.csv
+Reading file /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-13/20/2020-07-13_20:10:04_0.csv
