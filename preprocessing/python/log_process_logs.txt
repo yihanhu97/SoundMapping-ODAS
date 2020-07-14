@@ -29,3 +29,6 @@ Execution of processAllLogs_new.py started at 2020-07-13 05:00:02.441420
 Now processing logs0
 making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-12/20
 making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-11/11
+Execution of processAllLogs_new.py started at 2020-07-14 05:00:01.664945
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-13/20
