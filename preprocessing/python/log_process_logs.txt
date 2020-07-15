@@ -378,3 +378,7 @@ Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-
 Now processing logs2
 Now processing logs3
 Execution of processAllLogs_new.py ended at 2020-07-15 09:15:03.860870
+Execution of processAllLogs_new.py started at 2020-07-15 11:01:02.393984
+Now processing logs0
+Execution of processAllLogs_new.py started at 2020-07-15 12:01:01.520058
+Now processing logs0
