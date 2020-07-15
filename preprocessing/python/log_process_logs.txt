@@ -32,3 +32,349 @@ making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/202
 Execution of processAllLogs_new.py started at 2020-07-14 05:00:01.664945
 Now processing logs0
 making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-13/20
+Execution of processAllLogs_new.py started at 2020-07-14 16:01:02.339468
+Now processing logs0
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/12
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/13
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/14
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/15
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-14/15
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 16:39:57.772643
+Execution of processAllLogs_new.py started at 2020-07-14 17:01:01.978103
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/16
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-14/16
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 17:08:00.852286
+Execution of processAllLogs_new.py started at 2020-07-14 18:01:01.937295
+Now processing logs0
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/17
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-14/17
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 18:12:31.494840
+Execution of processAllLogs_new.py started at 2020-07-14 19:01:01.663457
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/18
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-14/18
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 19:09:31.431805
+Execution of processAllLogs_new.py started at 2020-07-14 20:01:01.531518
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 20:08:03.923849
+Execution of processAllLogs_new.py started at 2020-07-14 21:01:01.728527
+Now processing logs0
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-14/20
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-14/20
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 21:10:04.199276
+Execution of processAllLogs_new.py started at 2020-07-14 22:01:01.706854
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 22:08:22.673420
+Execution of processAllLogs_new.py started at 2020-07-14 23:01:02.449362
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-14 23:08:22.584078
+Execution of processAllLogs_new.py started at 2020-07-15 00:01:02.074588
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 00:08:46.931714
+Execution of processAllLogs_new.py started at 2020-07-15 01:01:01.957803
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 01:14:47.677055
+Execution of processAllLogs_new.py started at 2020-07-15 02:01:01.881450
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 02:14:57.915978
+Execution of processAllLogs_new.py started at 2020-07-15 03:01:02.330280
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 03:15:02.927684
+Execution of processAllLogs_new.py started at 2020-07-15 04:01:02.019703
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 04:14:38.039635
+Execution of processAllLogs_new.py started at 2020-07-15 05:01:01.849622
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 05:14:32.647740
+Execution of processAllLogs_new.py started at 2020-07-15 06:01:02.042753
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 06:15:18.855002
+Execution of processAllLogs_new.py started at 2020-07-15 07:01:01.856551
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 07:14:47.468506
+Execution of processAllLogs_new.py started at 2020-07-15 08:01:02.057975
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-15/07
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-15/07
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 08:18:54.573715
+Execution of processAllLogs_new.py started at 2020-07-15 09:01:02.177080
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:50:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_17:00:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:45:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_17:55:04_0.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:30:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-14_11:35:03_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-09_16:55:04_0.log
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-07-14_16:50:04_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-15 09:15:03.860870
