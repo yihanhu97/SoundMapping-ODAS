@@ -382,3 +382,6 @@ Execution of processAllLogs_new.py started at 2020-07-15 11:01:02.393984
 Now processing logs0
 Execution of processAllLogs_new.py started at 2020-07-15 12:01:01.520058
 Now processing logs0
+Execution of processAllLogs_new.py started at 2020-07-15 13:01:02.317255
+Now processing logs0
+making directory: /h
