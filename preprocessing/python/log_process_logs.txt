@@ -385,3 +385,221 @@ Now processing logs0
 Execution of processAllLogs_new.py started at 2020-07-15 13:01:02.317255
 Now processing logs0
 making directory: /h
+Execution of processAllLogs_new.py started at 2020-07-15 14:01:02.327757
+Now processing logs0
+Execution of processAllLogs_new.py started at 2020-07-15 15:01:02.142577
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-14_21:55:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 16:01:02.111438
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-14_21:55:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 17:01:01.597728
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-08_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 18:01:02.466763
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 19:01:02.349883
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 20:01:02.261838
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 21:01:01.728535
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 22:01:01.838215
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-15 23:01:02.098389
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 00:01:01.760015
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 01:01:01.617874
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 02:01:02.248267
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 03:01:02.033556
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 04:01:02.388727
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 05:01:01.532100
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 06:01:01.687614
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 07:01:02.295131
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-12_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 08:01:01.719988
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 105, in <module>
+    firstline = f.readline()
+IOError: [Errno 5] Input/output error
+Execution of processAllLogs_new.py started at 2020-07-16 09:01:01.634932
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 105, in <module>
+    firstline = f.readline()
+IOError: [Errno 5] Input/output error
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-16 10:01:01.765451
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-15/14
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-15/15
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-15/16
+making directory: /h
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-08_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 11:01:01.476227
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-10_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 12:01:01.997755
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-10_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 13:01:01.638961
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-10_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 14:01:02.413279
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-10_04:45:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 15:01:01.740056
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-14_18:55:04_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 16:01:02.816723
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-14_22:55:03_0.log' already exists
