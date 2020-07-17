@@ -104,7 +104,10 @@ for mic_number in range(len(records)):
         with open(log, 'r') as f:
                 firstline = f.readline()
                 if firstline == "SST log contains no useful data\n":
-                    temp = shutil.move(log,destination) # new
+                    try:
+                        temp = shutil.move(log,destination) # new
+                    except:
+                        continue
                     continue
                     
         log_string = log[:-6] + '.log' # modification to account for added array number to path
@@ -143,4 +146,5 @@ for mic_number in range(len(records)):
         
         
 print("Execution of processAllLogs_new.py ended at " + str(datetime.datetime.now()))
+print("\n")
 

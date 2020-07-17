@@ -603,3 +603,19 @@ Traceback (most recent call last):
   File "/usr/lib/python2.7/shutil.py", line 292, in move
     raise Error, "Destination path '%s' already exists" % real_dst
 shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-14_22:55:03_0.log' already exists
+Execution of processAllLogs_new.py started at 2020-07-16 17:01:02.153825
+Now processing logs0
+Traceback (most recent call last):
+  File "/home/ardelalegre/CSE4223-ODAS/preprocessing/python/processAllLogs_new.py", line 107, in <module>
+    temp = shutil.move(log,destination) # new
+  File "/usr/lib/python2.7/shutil.py", line 292, in move
+    raise Error, "Destination path '%s' already exists" % real_dst
+shutil.Error: Destination path '/home/ardelalegre/google-drive/ODAS/logs0/SST/Processed/cSST_2020-07-15_06:50:03_0.log' already exists
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
