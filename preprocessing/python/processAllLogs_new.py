@@ -100,49 +100,52 @@ for mic_number in range(len(records)):
     print("Now processing logs" + str(mic_number))
     
     for log in records[mic_number]:
-        
-        with open(log, 'r') as f:
-                firstline = f.readline()
-                if firstline == "SST log contains no useful data\n":
-                    try:
-                        temp = shutil.move(log,destination) # new
-                    except:
+        try:
+            with open(log, 'r') as f:
+                    firstline = f.readline()
+                    if firstline == "SST log contains no useful data\n":
+                        try:
+                            temp = shutil.move(log,destination) # new
+                        except:
+                            continue
                         continue
-                    continue
-                    
-        log_string = log[:-6] + '.log' # modification to account for added array number to path
-#         print(log_string)
-        
-        hour = log_string[log_string.rfind('_') + 1: log_string.rfind('_') + 1 + 2]
-        day = log_string[log_string.find('_') + 1: log_string.rfind('_')]
-        path = log_string[:log_string.find('S/') + 2] + 'dataframes/dataframes' + str(mic_number) + '/'
-#         print(path)
-#         print(day)
-#         print(hour)
-        try:
-            if(not os.path.isdir(os.path.join(path, day))):
-                os.mkdir(os.path.join(path, day))
-            
-            path = os.path.join(path, day, hour)
-            if(not os.path.isdir(path)):
-                print("making directory: " + str(path))
-                os.mkdir(path)
-        
-        except:
-            continue
-            
-#         print(path)
-        try:
-            df = extractDirectionalities(log, mic_number)
-            if(not os.path.isdir(path)):
-                os.mkdir(path)
-            df.to_csv(path_or_buf=path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv', index=False)
+
+            log_string = log[:-6] + '.log' # modification to account for added array number to path
+    #         print(log_string)
+
+            hour = log_string[log_string.rfind('_') + 1: log_string.rfind('_') + 1 + 2]
+            day = log_string[log_string.find('_') + 1: log_string.rfind('_')]
+            path = log_string[:log_string.find('S/') + 2] + 'dataframes/dataframes' + str(mic_number) + '/'
+    #         print(path)
+    #         print(day)
+    #         print(hour)
             try:
-                temp = shutil.move(log,destination) # new
+                if(not os.path.isdir(os.path.join(path, day))):
+                    os.mkdir(os.path.join(path, day))
+
+                path = os.path.join(path, day, hour)
+                if(not os.path.isdir(path)):
+                    print("making directory: " + str(path))
+                    os.mkdir(path)
+
             except:
                 continue
+
+    #         print(path)
+            try:
+                df = extractDirectionalities(log, mic_number)
+                if(not os.path.isdir(path)):
+                    os.mkdir(path)
+                df.to_csv(path_or_buf=path+ '/' + log[log.find('_') + 1:log.find('.')]+'.csv', index=False)
+                try:
+                    temp = shutil.move(log,destination) # new
+                except:
+                    continue
+            except:
+                print('Could not process file: ' + log)
         except:
-            print('Could not process file: ' + log)
+            print('Could not open file: ' + log)
+            continue
         
         
 print("Execution of processAllLogs_new.py ended at " + str(datetime.datetime.now()))
