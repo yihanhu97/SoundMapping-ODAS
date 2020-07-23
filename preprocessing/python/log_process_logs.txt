@@ -3431,3 +3431,451 @@ To accept the future behavior, pass 'sort=True'.
 To retain the current behavior and silence the warning, pass sort=False
 
   sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 14:01:02.365330
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-22/13
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-22/13
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-07-22/13
+Execution of processAllLogs_new.py ended at 2020-07-22 14:30:03.102472
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 15:01:01.839394
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-22/14
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-22/14
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-07-22/14
+Execution of processAllLogs_new.py ended at 2020-07-22 15:35:39.848951
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 16:01:01.536283
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-22/15
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-22/15
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-07-22/15
+Execution of processAllLogs_new.py ended at 2020-07-22 16:29:03.807385
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 17:01:01.452633
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-22/16
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-22/16
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-07-22/16
+Execution of processAllLogs_new.py ended at 2020-07-22 17:35:58.904096
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 18:01:01.637351
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-07-22/17
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-22/17
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-07-22/17
+Execution of processAllLogs_new.py ended at 2020-07-22 18:39:26.941378
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 19:01:01.466725
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-22 19:21:51.279195
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 20:01:01.979071
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-22 20:21:49.783077
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 21:01:01.494515
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-22 21:21:43.662041
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 22:01:02.464026
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-22 22:22:25.408230
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-22 23:01:02.106129
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-22 23:23:11.857142
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 00:01:01.541432
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 00:22:05.410237
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 01:01:02.131856
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 01:22:09.822280
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 02:01:01.699698
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 02:22:03.106163
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 03:01:01.859349
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 03:22:51.816650
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 04:01:01.653154
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /h
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 04:22:20.693199
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 05:01:02.458229
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 05:22:26.921013
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 06:01:01.669502
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 06:35:42.767967
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 07:01:02.480562
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 07:34:45.518208
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 08:01:02.215415
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 08:33:00.163599
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 09:01:01.915136
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 09:21:21.729783
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 10:01:02.504651
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 10:26:56.815857
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-07-23 11:01:01.596340
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-07-23/10
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-07-23 11:22:21.477570
+
+
