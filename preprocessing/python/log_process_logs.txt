@@ -9624,3 +9624,999 @@ To accept the future behavior, pass 'sort=True'.
 To retain the current behavior and silence the warning, pass sort=False
 
   sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 12:01:02.026220
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/11
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/11
+Execution of processAllLogs_new.py ended at 2020-08-03 12:47:22.600404
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 13:01:02.157630
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/12
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-03 13:54:02.708773
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 14:01:02.691346
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/13
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/13
+Execution of processAllLogs_new.py ended at 2020-08-03 15:00:35.313064
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 15:01:02.415415
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-29_15:50:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-03/14
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/14
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-03/14
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/14
+Execution of processAllLogs_new.py ended at 2020-08-03 16:39:05.346073
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 16:01:02.234095
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-03/15
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-03_14:40:04_0.log
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:35:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/15
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:10:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:44:19_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:30:04_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:55:04_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:20:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:50:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:05:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:00:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:25:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_14:15:04_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_14:50:04_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-03/15
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_14:44:18_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_14:55:04_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:35:04_3.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/15
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:10:07_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:00:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_14:05:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-03 17:57:03.782595
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 17:01:02.117907
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-03/16
+making directory: /h
+Now processing logs1
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/16
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:25:04_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:20:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:35:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:40:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:00:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:15:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:45:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:05:04_1.log
+Now processing logs2
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-03/16
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:05:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:00:08_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:25:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:45:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:20:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:10:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:35:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:50:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:40:04_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:45:04_3.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/16
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:00:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_15:50:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-03 19:16:23.622742
+
+
+Execution of processAllLogs_new.py started at 2020-08-03 18:01:02.368393
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-03/17
+making directory: /h
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:30:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/17
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:45:05_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:40:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:20:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:55:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:05:04_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:15:04_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:00:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:50:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:35:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:25:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_16:10:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_15:55:04_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:35:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:25:04_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-03/17
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:45:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_15:55:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:20:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:55:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:05:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:40:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:00:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:50:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:15:04_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:10:04_2.log
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:15:04_3.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/17
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:00:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-03 19:38:05.087806
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 19:01:01.618165
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-17_13:55:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-03/18
+making directory: /h
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:30:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:55:04_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:15:04_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:00:04_1.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes1/2020-08-03/18
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:20:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:50:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:40:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:35:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:25:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:45:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:05:04_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-03_17:10:04_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:25:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:10:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:45:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:20:04_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-03/18
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:00:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:50:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:00:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:05:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:40:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:50:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:35:04_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_16:10:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_17:55:04_2.log
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:45:04_3.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-03/18
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_16:00:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_17:00:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-03 20:03:57.909115
+
+
+Execution of processAllLogs_new.py started at 2020-08-03 20:01:01.832103
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_18:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_18:00:04_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_18:40:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-03_18:30:04_2.log
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:00:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:20:06_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-03_18:35:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-03 20:39:00.372886
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 21:01:02.122136
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-03 21:38:23.572506
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 22:01:02.362504
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-03 22:41:25.297570
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-03 23:01:01.945164
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-03 23:37:49.389679
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 00:01:02.094207
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 00:37:49.300165
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 01:01:03.388941
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 01:38:11.469158
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 02:01:03.061521
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 02:42:09.580816
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 03:01:02.106027
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 03:37:26.593394
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 04:01:02.316293
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 04:38:17.298619
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 05:01:02.158012
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 05:37:45.002060
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 06:01:01.698212
+Now processing logs0
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /h
+Now processing logs3
+Execution of processAllLogs_new.py ended at 2020-08-04 07:08:29.180932
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 07:01:02.048863
+Now processing logs0
+making directory: /h
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:45:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:10:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:20:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:00:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:50:03_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:40:03_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:05:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:25:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:15:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:30:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:35:03_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_05:00:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_05:05:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_05:50:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_05:45:04_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:10:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:00:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:20:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:15:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:30:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:05:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:40:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:45:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:25:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:35:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:50:03_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 08:26:01.894434
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 08:01:01.926743
+Now processing logs0
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_06:40:03_0.log
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:45:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:20:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:15:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:55:03_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:40:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:10:03_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:25:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:30:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:05:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:00:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_05:55:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:35:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_06:50:03_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:10:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:50:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:35:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:30:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:20:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:45:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:55:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:25:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:05:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:40:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_05:55:03_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:15:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_06:00:03_2.log
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:30:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:55:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:00:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:35:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:20:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:05:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_05:55:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:45:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:50:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:25:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:15:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:40:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_06:10:03_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 09:31:04.558404
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 09:01:01.650532
+Now processing logs0
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_07:05:03_0.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_07:35:03_0.log
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:30:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:50:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:20:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:10:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:35:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:05:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:55:03_1.log
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:15:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:45:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:00:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:40:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_07:25:03_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:10:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:20:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:40:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:35:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:25:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:05:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:30:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:00:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:55:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:45:03_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:15:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_07:50:03_2.log
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:05:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:20:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:15:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:30:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:40:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:35:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:00:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:45:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:10:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:25:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:50:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_07:55:03_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 10:41:13.660442
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 10:01:02.295437
+Now processing logs0
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_08:40:03_0.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_08:10:03_0.log
+Now processing logs1
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:30:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:20:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:50:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:35:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:05:03_1.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:00:03_1.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:45:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:15:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:55:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:25:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:40:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_08:10:03_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:10:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:20:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:30:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:40:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:35:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:00:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:45:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:50:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:55:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:15:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:25:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_08:05:03_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:55:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:35:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:20:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:50:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:25:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:10:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:45:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:05:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:40:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:00:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:30:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_08:15:03_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 11:18:37.560024
+
+
+Execution of processAllLogs_new.py started at 2020-08-04 11:01:02.274181
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-04/10
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_09:40:04_0.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_09:25:03_0.log
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_09:05:03_1.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-08-04_09:00:03_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:30:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:05:03_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-04/10
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:25:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:45:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:50:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:35:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:15:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:40:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:00:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:10:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_09:20:03_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:00:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:30:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:25:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:10:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:20:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:15:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:05:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:35:03_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_09:40:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 11:48:51.371836
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 12:01:01.914611
+Now processing logs0
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-29_15:50:04_0.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-04/11
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-08-04_11:20:04_0.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-29_17:55:04_0.log
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-04/11
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-04/11
+Execution of processAllLogs_new.py ended at 2020-08-04 12:56:37.328332
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 13:01:01.941242
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-04/12
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-04/12
+making directory: /h
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-04/12
+Execution of processAllLogs_new.py ended at 2020-08-04 14:14:52.975292
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 14:01:02.821966
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-04/13
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs0/SST/cSST_2020-07-17_14:45:04_0.log
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:25:04_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-04/13
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:10:04_2.log
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-07-17_16:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:50:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:00:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:05:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:45:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:55:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:40:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:20:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:15:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_12:35:07_2.log
+making directory: /h
+Now processing logs3
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:00:04_3.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-04/13
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:20:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_12:50:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 15:22:39.875193
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
+Execution of processAllLogs_new.py started at 2020-08-04 15:01:02.814783
+Now processing logs0
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes0/2020-08-04/14
+making directory: /h
+Now processing logs1
+making directory: /h
+Could not process file: /home/ardelalegre/google-drive/ODAS/logs1/SST/cSST_2020-06-26_13:00:12_1.log
+Now processing logs2
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:05:04_2.log
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes2/2020-08-04/14
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:15:03_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:50:07_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:55:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:30:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:00:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:25:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:10:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:45:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:20:04_2.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:40:03_2.log
+making directory: /h
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs2/SST/cSST_2020-08-04_13:35:04_2.log
+Now processing logs3
+making directory: /home/ardelalegre/google-drive/ODAS/dataframes/dataframes3/2020-08-04/14
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:50:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:25:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:30:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:10:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:15:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:40:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:00:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:35:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:55:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:45:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:05:04_3.log
+Could not open file: /home/ardelalegre/google-drive/ODAS/logs3/SST/cSST_2020-08-04_13:20:04_3.log
+Execution of processAllLogs_new.py ended at 2020-08-04 17:01:45.674418
+
+
+/usr/local/lib/python2.7/dist-packages/pandas/core/frame.py:6201: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=True'.
+
+To retain the current behavior and silence the warning, pass sort=False
+
+  sort=sort)
