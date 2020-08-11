@@ -8,13 +8,13 @@
 import subprocess as p
 
 # Setting up working directory
-p.run(["cd","/home/pi/odas/CSE4223-ODAS/Matrix"])
+wd = "/home/pi/odas/CSE4223-ODAS/Matrix"
 
 # Ask for array index from user input 
 arrayInd = input("Enter array index: ")
 
 # Create backup.sh based on array index
-with open ("backup.sh", "w") as rsh:
+with open ("/home/pi/odas/CSE4223-ODAS/Matrix/backup.sh", "w") as rsh:
     rsh.write(
 '''
 #! /bin/bash
@@ -25,7 +25,7 @@ rclone copy /home/pi/odas/recordings/postfiltered RaspberryPi:/ODAS/recordings{0
 '''.format(arrayInd))
 
 # Create IPupload.sh based on array index
-with open ('IPupload.sh', 'w') as rsh:
+with open ('/home/pi/odas/CSE4223-ODAS/Matrix/IPupload.sh', 'w') as rsh:
     rsh.write(
 '''
 #! /bin/bash
@@ -39,21 +39,17 @@ rclone copy /home/pi/odas/IP{0}.log RaspberryPi:/ODAS
 with open("/home/pi/odas/arrayInfo.txt","w") as f:
     f.writelines(arrayInd)
 
-# Copy files to their working directory
-p.run(["cp","backup.sh","cleanup.sh","crontab","filemanager.sh","IPupload.sh","rclone.conf","startup.sh","~/odas"])
-p.run(["cp","matrix_creator_local.cfg","~/odas/config/matrix-demo"])
-p.run(["cp","-r","python","~/odas"])
-
-# Make bash scripts executables, set up crontab, set up rclone
-p.run(["cd","~/odas"])
-p.run(["sudo","chmod","+x","cleanup.sh","filemanager.sh","startup.sh","IPupload.sh","backup.sh"])
-p.run(["sudo","crontab","-e","crontab"])
-p.run(["cp","rclone.conf","~/.conf/rclone"])
+# Make bash scripts executables, set up crontab, set up rclone, and copy files to their working directory
+p.run(["sudo","chmod","+x","cleanup.sh","filemanager.sh","startup.sh","IPupload.sh","backup.sh"],cwd=wd)
+p.run(["sudo","crontab","crontab"],cwd=wd)
+p.run(["cp","backup.sh","cleanup.sh","crontab","filemanager.sh","IPupload.sh","rclone.conf","startup.sh","/home/pi/odas"],cwd=wd)
+p.run(["cp","matrix_creator_local.cfg","/home/pi/odas/config/matrix-demo"],cwd=wd)
+p.run(["cp","-r","python","/home/pi/odas"],cwd=wd)
+p.run(["cp","rclone.conf","/home/pi/.config/rclone"],cwd=wd)
 
 # create recordings folder
-p.run(["mkdir","recordings"])
-p.run(["cd","recordings"])
-p.run(["mkdir","SST","SSL","separated","postfiltered","raw"]) 
+p.run(["mkdir","recordings"],cwd="/home/pi/odas")
+p.run(["mkdir","SST","SSL","separated","postfiltered","raw"],cwd="/home/pi/odas/recordings") 
 
 # reboot
 p.run(["sudo","reboot"])
