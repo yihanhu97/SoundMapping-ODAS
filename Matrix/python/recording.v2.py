@@ -10,10 +10,6 @@ from datetime import datetime
 from subprocess import Popen, PIPE
 import signal
 
-
-# In[2]:
-
-
 # Define countdown(): a function that calculates the time difference T between now and the next 5 minute mark
 # Put the system to sleep for the length of T
 def countdown5():
@@ -25,22 +21,15 @@ def countdown5():
     print("Time is " + str(t1) + ". Going to sleep now...")
     timer.sleep(sleepTime)
     print("Time is " + str(datetime.fromtimestamp(timer.time())) + ". Waking up now...")
-
-
-# In[3]:
-
+    
+# Find the array Index
+f = open("/home/pi/odas/arrayInfo.txt","r")
+arrayInd = f.readline()
+f.close()
+arrayAppendix = "_" + arrayInd
 
 # First set the working directory to /home/pi/odas/bin
 wd = "/home/pi/odas/bin"
-
-# Using universal_newlines=True converts the output to a string instead of a byte array.
-# matrix-odas only open once
-p1 = Popen(["./matrix-odas", "&"], 
-           cwd=wd, universal_newlines=True)
-
-
-# In[6]:
-
 
 # start the program at a 5-minute mark, run countdown()
 countdown5()
@@ -88,7 +77,7 @@ while True:
 
         # rename cleaned.log and remove SST.log
         os.rename("/home/pi/odas/recordings/SST/cleaned.log", 
-                  "/home/pi/odas/recordings/SST/cSST_" + date0 + "_" + time0 + "_0" + ".log")
+                  "/home/pi/odas/recordings/SST/cSST_" + date0 + "_" + time0 + arrayAppendix + ".log")
         os.remove("/home/pi/odas/recordings/SST/SST.log")
 
         # If log file contains no data other than 0, delete raw files 
@@ -98,11 +87,13 @@ while True:
             os.remove("/home/pi/odas/recordings/postfiltered/postfiltered.raw")
         else:          
             os.rename("/home/pi/odas/recordings/SSL/SSL.log", 
-                      "/home/pi/odas/recordings/SSL/cSSL_" + date0 + "_" + time0 + "_0" + ".log")
+                      "/home/pi/odas/recordings/SSL/cSSL_" + date0 + "_" + time0 + arrayAppendix + ".log")
             os.rename("/home/pi/odas/recordings/separated/separated.raw", 
-                      "/home/pi/odas/recordings/separated/separated_" + date0+ "_" + time0 + "_0" + ".raw")
+                      "/home/pi/odas/recordings/separated/separated_" + date0+ "_" + time0 + arrayAppendix + ".raw")
             os.rename("/home/pi/odas/recordings/postfiltered/postfiltered.raw", 
-                      "/home/pi/odas/recordings/postfiltered/postfiltered_" + date0+ "_" + time0 + "_0" + ".raw")
+                      "/home/pi/odas/recordings/postfiltered/postfiltered_" + date0+ "_" + time0 + arrayAppendix + ".raw")
+#             os.rename("/home/pi/odas/recordings/raw/allChannels.raw", 
+#                       "/home/pi/odas/recordings/raw/allChannels_" + date0+ "_" + time0 + "_0" + ".raw")
 
         print("Time is " + str(datetime.fromtimestamp(timer.time())) + ". Clean up finished")
         # wait until the next 5-minute mark
@@ -110,8 +101,6 @@ while True:
         countdown5()
                            
     except KeyboardInterrupt:
-        p1.send_signal(signal.SIGINT)
-        p1.wait()
         p2.send_signal(signal.SIGINT)
         p2.wait()
         break
