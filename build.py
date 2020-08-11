@@ -1,19 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
+# In[1]:
 
 # CSE4223-ODAS will be installed in /home/pi/odas
 
+import subprocess as p
+
 # Setting up working directory
-get_ipython().system('cd /home/pi/odas/CSE4223-ODAS/Matrix')
+p.run(["cd","/home/pi/odas/CSE4223-ODAS/Matrix"])
 
 # Ask for array index from user input 
 arrayInd = input("Enter array index: ")
 
 # Create backup.sh based on array index
-with open ('backup.sh', 'w') as rsh:
+with open ("backup.sh", "w") as rsh:
     rsh.write(
 '''
 #! /bin/bash
@@ -39,21 +40,20 @@ with open("/home/pi/odas/arrayInfo.txt","w") as f:
     f.writelines(arrayInd)
 
 # Copy files to their working directory
-get_ipython().system('cp backup.sh cleanup.sh crontab filemanager.sh IPupload.sh rclone.conf startup.sh ~/odas')
-get_ipython().system('cp matrix_creator_local.cfg ~/odas/config/matrix-demo')
-get_ipython().system('cp -r python ~/odas')
+p.run(["cp","backup.sh","cleanup.sh","crontab","filemanager.sh","IPupload.sh","rclone.conf","startup.sh","~/odas"])
+p.run(["cp","matrix_creator_local.cfg","~/odas/config/matrix-demo"])
+p.run(["cp","-r","python","~/odas"])
 
 # Make bash scripts executables, set up crontab, set up rclone
-get_ipython().system('cd ~/odas')
-get_ipython().system('sudo chmod +x cleanup.sh filemanager.sh startup.sh IPupload.sh backup.sh')
-get_ipython().system('sudo crontab -e crontab')
-get_ipython().system('cp rclone.conf ~/.conf/rclone')
+p.run(["cd","~/odas"])
+p.run(["sudo","chmod","+x","cleanup.sh","filemanager.sh","startup.sh","IPupload.sh","backup.sh"])
+p.run(["sudo","crontab","-e","crontab"])
+p.run(["cp","rclone.conf","~/.conf/rclone"])
 
 # create recordings folder
-get_ipython().system('mkdir recordings')
-get_ipython().system('cd recordings')
-get_ipython().system('mkdir SST SSL separated postfiltered raw')
+p.run(["mkdir","recordings"])
+p.run(["cd","recordings"])
+p.run(["mkdir","SST","SSL","separated","postfiltered","raw"]) 
 
 # reboot
-get_ipython().system('sudo reboot')
-
+p.run(["sudo","reboot"])
