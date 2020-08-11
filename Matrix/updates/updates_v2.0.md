@@ -7,7 +7,7 @@
 ### recording v2
 1. Skipped `matrix-odas` program as it is not needed. 
 2. Added code that renames raw recordings once they are available.
-3. Takes array index as an input and automatically changes files names based on each device.
+3. Takes array index as an input and changes files names based on each device.
 
 ### crontab
 1. Recording program will not start at boot.
