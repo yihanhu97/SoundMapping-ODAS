@@ -1,7 +1,7 @@
 import json
 import re
 
-filename = raw_input()
+filename = input()
 
 with open(filename, 'r') as f:
     text = f.read()
