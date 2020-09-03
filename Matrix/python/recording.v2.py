@@ -64,7 +64,7 @@ while True:
                    stdin=PIPE, 
                    universal_newlines=True)    
         # flag returns a string that says if the file is or is not useful            
-        flag = p3.communicate(input="/home/pi/odas/recordings/SST/SST.log")[0]
+        flag = p3.communicate(input="/home/pi/odas/recordings/SST/SST.log")[0].strip()
         
         # append recording start time and end time to the end of SST.log and SSL.log
         with open("/home/pi/odas/recordings/SST/cleaned.log", "a") as f:
@@ -81,7 +81,8 @@ while True:
         os.remove("/home/pi/odas/recordings/SST/SST.log")
 
         # If log file contains no data other than 0, delete raw files 
-        if flag == "not useful\n":
+        key = "not useful"
+        if flag == key:
             os.remove("/home/pi/odas/recordings/SSL/SSL.log")
             os.remove("/home/pi/odas/recordings/separated/separated.raw")
             os.remove("/home/pi/odas/recordings/postfiltered/postfiltered.raw")
