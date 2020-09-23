@@ -14,3 +14,6 @@
 # Upload IP address at boot
 @reboot sleep 60 ; su pi -c "/home/pi/odas/IPupload.sh"
 0 */12 * * * su pi -c "/home/pi/odas/IPupload.sh"
+
+# Reboot every 2 days
+0 0 */2 * * root /sbin/shutdown -r
