@@ -8,13 +8,13 @@
 import subprocess as p
 
 # Setting up working directory
-wd = "/home/pi/odas/CSE4223-ODAS/Matrix"
+wd = "/home/pi/odas/SoundMapping-ODAS/Matrix"
 
 # Ask for array index from user input 
 arrayInd = input("Enter array index: ")
 
 # Create backup.sh based on array index
-with open ("/home/pi/odas/CSE4223-ODAS/Matrix/backup.sh", "w") as rsh:
+with open ("/home/pi/odas/SoundMapping-ODAS/Matrix/backup.sh", "w") as rsh:
     rsh.write(
 '''
 #! /bin/bash
@@ -25,7 +25,7 @@ rclone copy /home/pi/odas/recordings/postfiltered RaspberryPi:/ODAS/recordings{0
 '''.format(arrayInd))
 
 # Create IPupload.sh based on array index
-with open ('/home/pi/odas/CSE4223-ODAS/Matrix/IPupload.sh', 'w') as rsh:
+with open ('/home/pi/odas/SoundMapping-ODAS/Matrix/IPupload.sh', 'w') as rsh:
     rsh.write(
 '''
 #! /bin/bash
@@ -43,6 +43,7 @@ with open("/home/pi/odas/arrayInfo.txt","w") as f:
 p.run(["sudo","chmod","+x","cleanup.sh","filemanager.sh","startup.sh","IPupload.sh","backup.sh"],cwd=wd)
 p.run(["sudo","crontab","crontab"],cwd=wd)
 p.run(["cp","backup.sh","cleanup.sh","crontab","filemanager.sh","IPupload.sh","rclone.conf","startup.sh","/home/pi/odas"],cwd=wd)
+p.run(["mkdir","matrix-demo"],cwd="/home/pi/odas/config")
 p.run(["cp","matrix_creator_local.cfg","/home/pi/odas/config/matrix-demo"],cwd=wd)
 p.run(["cp","-r","python","/home/pi/odas"],cwd=wd)
 p.run(["cp","rclone.conf","/home/pi/.config/rclone"],cwd=wd)
