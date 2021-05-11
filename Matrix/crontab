@@ -1,5 +1,5 @@
 # Run rclone copy every 5 minutes to backup recordings
-*/5 * * * * su pi -c "/home/pi/odas/backup.sh"
+# */5 * * * * su pi -c "/home/pi/odas/backup.sh"
 
 # Delete files generated every 15 mins ago to free up storage
 # Running with root permission due to find's internal directory change
